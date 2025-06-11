@@ -1,4 +1,4 @@
-Here’s a polished and professional `README.md` for your **Flipkart Reviews Sentiment Analysis** project — perfect for showcasing in your CV or portfolio:
+
 
 ---
 
