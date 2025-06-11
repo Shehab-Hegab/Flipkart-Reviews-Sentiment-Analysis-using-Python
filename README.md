@@ -109,9 +109,7 @@ Flipkart-Reviews-Sentiment-Analysis/
 Machine Learning Engineer | Biomedical Engineering Student
 🔗 [LinkedIn](https://www.linkedin.com/in/shehab-hegab-5303491b7/) | 🌐 [GitHub](https://github.com/Shehab-Hegab)
 
----
 
-Would you like me to generate a short summary for your CV as well (e.g., 2–3 lines for the *Projects* section)?
 
 
 
